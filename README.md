@@ -1,8 +1,7 @@
 # OpenWeatherETL
 ## 專案說明
 ### 專案名稱: 利用AWS建立Open Weather ETL 並整合至 Apache Airflow
-**(詳情請參閱 DockerPostgreSQLPgAdmin實作說明.pdf 檔案)**
-**(<https://github.com/jerry7776112/openweatherETL/blob/main/openweatherETL.pdf>)**
+**詳情請參閱[openweatherETL.pdf](https://github.com/jerry7776112/openweatherETL/blob/main/openweatherETL.pdf)**
 ### 實作說明
 ##### 利用AWS開發自動化抓取OpenWeather天氣資訊的ETL
 * 建立 AWS EC2 並整合至 Local端 Virtual Studio Code 編譯
